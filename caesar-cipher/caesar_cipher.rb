@@ -14,5 +14,3 @@ module CaesarCipher
     end.join
   end
 end
-
-p CaesarCipher.encrypt('What a string!', -5)
